@@ -1,0 +1,11 @@
+C:\Users\victo\Desktop\cODE\FormsAula\ProvaEstudo\ProvaEstudo\bin\Debug\ProvaEstudo.exe.config
+C:\Users\victo\Desktop\cODE\FormsAula\ProvaEstudo\ProvaEstudo\bin\Debug\ProvaEstudo.exe
+C:\Users\victo\Desktop\cODE\FormsAula\ProvaEstudo\ProvaEstudo\bin\Debug\ProvaEstudo.pdb
+C:\Users\victo\Desktop\cODE\FormsAula\ProvaEstudo\ProvaEstudo\obj\Debug\ProvaEstudo.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\cODE\FormsAula\ProvaEstudo\ProvaEstudo\obj\Debug\ProvaEstudo.Properties.Resources.resources
+C:\Users\victo\Desktop\cODE\FormsAula\ProvaEstudo\ProvaEstudo\obj\Debug\ProvaEstudo.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\cODE\FormsAula\ProvaEstudo\ProvaEstudo\obj\Debug\ProvaEstudo.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\cODE\FormsAula\ProvaEstudo\ProvaEstudo\obj\Debug\ProvaEstudo.exe
+C:\Users\victo\Desktop\cODE\FormsAula\ProvaEstudo\ProvaEstudo\obj\Debug\ProvaEstudo.pdb
+C:\Users\victo\Desktop\cODE\FormsAula\ProvaEstudo\ProvaEstudo\obj\Debug\ProvaEstudo.Form1.resources
+C:\Users\victo\Desktop\cODE\FormsAula\ProvaEstudo\ProvaEstudo\obj\Debug\ProvaEstudo.FormAdicionar.resources
